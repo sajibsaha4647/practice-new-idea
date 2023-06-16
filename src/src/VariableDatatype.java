@@ -19,7 +19,7 @@ public class VariableDatatype {
         d = 34.3;
 
 
-        System.out.println(b);
+        System.out.printf("this is bool  %b\n",b);
         System.out.println(c);
         System.out.println(s);
         System.out.println(i);
