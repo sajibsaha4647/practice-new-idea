@@ -20,12 +20,6 @@ public class ReverseAnIntegerValue {
 
         System.out.println("reverse value are"+sum);
 
-
-
-
-
-
-
     }
     
 }
