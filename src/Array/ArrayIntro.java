@@ -7,5 +7,10 @@ public class ArrayIntro {
        number[0] = 10;
 
        System.out.println(number[0]);
+
+       
     }
+
+
+
 }
