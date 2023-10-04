@@ -1,6 +1,6 @@
 package oop;
 
-class IntroClass {
+public class IntroClass {
 
     String name, gender;
     int phone;
